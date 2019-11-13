@@ -1,0 +1,13 @@
+C:\Personal\Dev\ExamenOneCore\ExamenOneCoreVs2017\ExamenOneCore.Ebl\bin\Debug\netstandard2.0\ExamenOneCore.Ebl.deps.json
+C:\Personal\Dev\ExamenOneCore\ExamenOneCoreVs2017\ExamenOneCore.Ebl\bin\Debug\netstandard2.0\ExamenOneCore.Ebl.dll
+C:\Personal\Dev\ExamenOneCore\ExamenOneCoreVs2017\ExamenOneCore.Ebl\bin\Debug\netstandard2.0\ExamenOneCore.Ebl.pdb
+C:\Personal\Dev\ExamenOneCore\ExamenOneCoreVs2017\ExamenOneCore.Ebl\bin\Debug\netstandard2.0\ExamenOneCore.Data.dll
+C:\Personal\Dev\ExamenOneCore\ExamenOneCoreVs2017\ExamenOneCore.Ebl\bin\Debug\netstandard2.0\ExamenOneCore.Entity.dll
+C:\Personal\Dev\ExamenOneCore\ExamenOneCoreVs2017\ExamenOneCore.Ebl\bin\Debug\netstandard2.0\ExamenOneCore.Data.pdb
+C:\Personal\Dev\ExamenOneCore\ExamenOneCoreVs2017\ExamenOneCore.Ebl\bin\Debug\netstandard2.0\ExamenOneCore.Entity.pdb
+C:\Personal\Dev\ExamenOneCore\ExamenOneCoreVs2017\ExamenOneCore.Ebl\obj\Debug\netstandard2.0\ExamenOneCore.Ebl.csprojAssemblyReference.cache
+C:\Personal\Dev\ExamenOneCore\ExamenOneCoreVs2017\ExamenOneCore.Ebl\obj\Debug\netstandard2.0\ExamenOneCore.Ebl.AssemblyInfoInputs.cache
+C:\Personal\Dev\ExamenOneCore\ExamenOneCoreVs2017\ExamenOneCore.Ebl\obj\Debug\netstandard2.0\ExamenOneCore.Ebl.AssemblyInfo.cs
+C:\Personal\Dev\ExamenOneCore\ExamenOneCoreVs2017\ExamenOneCore.Ebl\obj\Debug\netstandard2.0\ExamenOneCore.Ebl.csproj.CopyComplete
+C:\Personal\Dev\ExamenOneCore\ExamenOneCoreVs2017\ExamenOneCore.Ebl\obj\Debug\netstandard2.0\ExamenOneCore.Ebl.dll
+C:\Personal\Dev\ExamenOneCore\ExamenOneCoreVs2017\ExamenOneCore.Ebl\obj\Debug\netstandard2.0\ExamenOneCore.Ebl.pdb

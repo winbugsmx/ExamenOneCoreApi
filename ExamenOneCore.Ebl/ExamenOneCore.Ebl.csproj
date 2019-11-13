@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ExamenOneCore.Data\ExamenOneCore.Data.csproj" />
+    <ProjectReference Include="..\ExamenOneCore.Entitie\ExamenOneCore.Entity.csproj" />
+  </ItemGroup>
+</Project>
